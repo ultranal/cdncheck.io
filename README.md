@@ -1,2 +1,2 @@
 # cdncheck.io
-A Web-based CDN Checking tool
+A Web-based CDN Check tool
