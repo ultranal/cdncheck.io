@@ -21,7 +21,7 @@
         string statusFlag: 可能为success, warning, ipError undefined。success代表校验成功，warning代表存在连接问题, undefined代表连接成功但校验失败, ipError代表IP段存在错误。
         string statusinfo: 提示信息
     
-    pullRemoteContent: 拉取远程服务器响应，因过于危险而搁置。
+    pullRemoteContent: 拉取远程服务器响应，因危险而搁置。
 
 #### domain : ip查域名模块 
     lookup : 执行查询
