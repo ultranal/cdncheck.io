@@ -1,2 +1,2 @@
-# cdncheck.io
-A Web-based CDN Check tool
+# cdncheck.io (DISCONTINUED)
+A web-based CDN check tool. (experimental)
